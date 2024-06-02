@@ -3,6 +3,8 @@ Pytorch implementation of Batch Constrained Deep Q-Learning algorithm from paper
 
 ## Setup
 
+Install [gym](https://github.com/openai/gym) and [d4rl](https://github.com/Farama-Foundation/D4RL).
+
 ```
 clone the repo
 cd BCQ
